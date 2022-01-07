@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LuckyRiceYT
 - 👀 I’m interested in coding and animation
 - 🌱 I’m currently learning JavaScript and Python!
+- Im also making 2 fnf mods called "VS Sami" and "VS Reality"! :D
 - 📫 How to reach me - LuckyRiceYT#7127
 
 <!---
