@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuckyRiceYT
 - 👀 I’m interested in coding and animation
-- 🌱 I’m currently learning JavaScript and Python!
+- 🌱 I’m currently learning C# and Lua!
 - 📫 How to reach me - LuckyRiceYT#7127
 
 <!---
