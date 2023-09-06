@@ -1,5 +1,5 @@
 - hello! im rice!
-- im a 17 year old TVL-ICT student!
+- im a 17 year old "TVL-ICT" student!
 - im currently learning C++
 - don't expect tons of stuff here (unless i know tons of C++, then probably expect tons of stuff)
 
