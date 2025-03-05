@@ -6,8 +6,9 @@
 What IDE do i use for programming? :
 - Code::Blocks 20.03
 - Apache Netbeans IDE 19
+- Visual Studio Code
 
 <!---
-LuckyRiceYT/LuckyRiceYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rxisuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
