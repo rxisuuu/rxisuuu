@@ -1,11 +1,9 @@
 - hello! im rice!
-- im a 19 year old "TVL-ICT" student!
-- im currently learning C++ and Java!
+- im a 19 year old "TVL-ICT" student! (Senior High Student | Graduating!!)
+- im currently learning HTML, CSS, JavaScript, Java, and C++!
 - don't expect tons of stuff here (unless i know tons of C++, then probably expect tons of stuff)
 -------
 What IDE do i use for programming? :
-- Code::Blocks 20.03
-- Apache Netbeans IDE 19
 - Visual Studio Code
 
 <!---
