@@ -1,6 +1,6 @@
 - hello! im rice!
-- im a 19 year old "TVL-ICT" student! (Senior High Student | Graduating!!)
-- im currently learning HTML, CSS, JavaScript, Java, PHP, SQL, and C++!
+- im a 19 year old BS Computer Science student!
+- im currently learning C++ and Python!
 - don't expect tons of stuff here hehe -w-;
 -------
 What IDE do i use for programming? :
